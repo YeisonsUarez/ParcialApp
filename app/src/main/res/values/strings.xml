@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParcialApp</string>
+    <string name="title">Platos- Yeison Omar Hernández- U00114799</string>
+    <string name="total">Total vendido del plato</string>
+    <string name="fraseventas">El total de ventas es :</string>
+    <string name="space" />
+    <string name="signoNumero">#</string>
+    <string name="precio">$</string>
+</resources>
